@@ -1,0 +1,213 @@
+{
+    "words": {
+        "basic": [
+            {
+                "id": 1,
+                "word": "apple",
+                "image": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron_ogg/a/app/apple/apple.ogg",
+                "level": 1
+            },
+            {
+                "id": 2,
+                "word": "book",
+                "image": "https://images.pexels.com/photos/762687/pexels-photo-762687.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/b/boo/book_/book.mp3",
+                "level": 1
+            },
+            {
+                "id": 3,
+                "word": "window",
+                "image": "https://images.pexels.com/photos/950054/pexels-photo-950054.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/w/win/windo/window.mp3",
+                "level": 1
+            },
+            {
+                "id": 4,
+                "word": "phone",
+                "image": "https://images.pexels.com/photos/594452/pexels-photo-594452.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/p/pho/phone/phone.mp3",
+                "level": 1
+            },
+            {
+                "id": 5,
+                "word": "city",
+                "image": "https://images.pexels.com/photos/374870/pexels-photo-374870.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/c/cit/city_/city.mp3",
+                "level": 1
+            },
+            {
+                "id": 6,
+                "word": "dog",
+                "image": "https://images.pexels.com/photos/2623968/pexels-photo-2623968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/d/dog/dog__/dog.mp3",
+                "level": 1
+            },
+            {
+                "id": 7,
+                "word": "cat",
+                "image": "https://images.pexels.com/photos/2558605/pexels-photo-2558605.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/c/cat/cat__/cat.mp3",
+                "level": 1
+            },
+            {
+                "id": 8,
+                "word": "Home",
+                "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/h/hom/home_/home.mp3",
+                "level": 1
+            },
+            {
+                "id": 9,
+                "word": "Pen",
+                "image": "https://images.pexels.com/photos/983826/pexels-photo-983826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/p/pen/pen__/pen.mp3",
+                "level": 1
+            },
+            {
+                "id": 10,
+                "word": "Car",
+                "image": "https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/c/car/car__/car.mp3",
+                "level": 1
+            },
+            {
+                "id": 11,
+                "word": "TV",
+                "image": "https://images.pexels.com/photos/6976094/pexels-photo-6976094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/u/ust/ustur/usturk_023.mp3",
+                "level": 1
+            },
+            {
+                "id": 12,
+                "word": "Mirror",
+                "image": "https://images.pexels.com/photos/6466223/pexels-photo-6466223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/m/mir/mirro/mirror.mp3",
+                "level": 1
+            },
+            {
+                "id": 13,
+                "word": "Fruit",
+                "image": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/f/fru/fruit/fruit.mp3",
+                "level": 1
+            }
+        ],
+        "intermediate": [
+            {
+                "id": 1,
+                "word": "Nuts",
+                "image": "https://images.pexels.com/photos/2161650/pexels-photo-2161650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73282.mp3",
+                "level": 1
+            },
+            {
+                "id": 2,
+                "word": "Sofa",
+                "image": "https://images.pexels.com/photos/4846097/pexels-photo-4846097.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/s/sof/sofa_/sofa.mp3",
+                "level": 1
+            },
+            {
+                "id": 3,
+                "word": "Gift",
+                "image": "https://images.pexels.com/photos/4397903/pexels-photo-4397903.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/g/gif/gift_/gift.mp3",
+                "level": 1
+            },
+            {
+                "id": 4,
+                "word": "motorbike",
+                "image": "https://images.pexels.com/photos/2626665/pexels-photo-2626665.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/u/usm/usmot/usmotli003.mp3",
+                "level": 1
+            },
+            {
+                "id": 5,
+                "word": "chocolate",
+                "image": "https://images.pexels.com/photos/6167329/pexels-photo-6167329.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/c/cho/choco/chocolate.mp3",
+                "level": 1
+            },
+            {
+                "id": 6,
+                "word": "Signature",
+                "image": "https://images.pexels.com/photos/175045/pexels-photo-175045.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/s/sig/signa/signature.mp3",
+                "level": 1
+            },
+            {
+                "id": 7,
+                "word": "Seat belt",
+                "image": "https://images.pexels.com/photos/3119975/pexels-photo-3119975.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01277.mp3",
+                "level": 1
+            },
+            {
+                "id": 8,
+                "word": "Lamb",
+                "image": "https://images.pexels.com/photos/891607/pexels-photo-891607.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/l/lam/lamb_/lamb.mp3",
+                "level": 1
+            },
+            {
+                "id": 9,
+                "word": "Fast food",
+                "image": "https://images.pexels.com/photos/551991/pexels-photo-551991.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00456.mp3",
+                "level": 1
+            },
+            {
+                "id": 10,
+                "word": "Snake",
+                "image": "https://images.pexels.com/photos/80474/grass-snake-snake-serpentes-natrix-80474.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/s/sna/snake/snake.mp3",
+                "level": 1
+            },
+            {
+                "id": 11,
+                "word": "Jeans",
+                "image": "https://images.pexels.com/photos/65676/nanjing-studio-jeans-65676.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/j/jea/jeans/jeans.mp3",
+                "level": 1
+            },
+            {
+                "id": 12,
+                "word": "Cage",
+                "image": "https://images.pexels.com/photos/899560/pexels-photo-899560.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/c/cag/cage_/cage.mp3",
+                "level": 1
+            }
+        ],
+        "advance": [
+            {
+                "id": 1,
+                "word": "Signature",
+                "image": "https://images.pexels.com/photos/175045/pexels-photo-175045.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/s/sig/signa/signature.mp3",
+                "level": 1
+            },
+            {
+                "id": 2,
+                "word": "Seat belt",
+                "image": "https://images.pexels.com/photos/3119975/pexels-photo-3119975.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01277.mp3",
+                "level": 1
+            },
+            {
+                "id": 3,
+                "word": "Lamb",
+                "image": "https://images.pexels.com/photos/891607/pexels-photo-891607.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/l/lam/lamb_/lamb.mp3",
+                "level": 1
+            },
+            {
+                "id": 4,
+                "word": "Fast food",
+                "image": "https://images.pexels.com/photos/551991/pexels-photo-551991.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+                "audio": "https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00456.mp3",
+                "level": 1
+            }
+        ]
+    }
+}
