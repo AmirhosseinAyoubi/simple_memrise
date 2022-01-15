@@ -70,7 +70,7 @@ function Leitner() {
                     setProgressBar(false)
                     clearInterval(progressInterval)
                     settimePercent(0)
-                }, 3000)
+                }, 180000)
             }
             else {
                 alert("finished")
@@ -104,7 +104,7 @@ function Leitner() {
                     setProgressBar(false)
                     clearInterval(progressInterval)
                     settimePercent(0)
-                }, 3000)
+                }, 180000)
             }
             else {
                 alert("finished")
@@ -123,8 +123,8 @@ function Leitner() {
             {
                 progressBar ?
                     <div className={style.progressbar_container}>
-                        <h3>Remaining time : {((3000 - timePercent) / 60000).toFixed(2)} minutes</h3>
-                        <Line className={style.progressBar} percent={(timePercent / 3000) * 100} strokeWidth={3} strokeColor="#D3D3D3" />
+                        <h3>Remaining time : {((180000 - timePercent) / 60000).toFixed(2)} minutes</h3>
+                        <Line className={style.progressBar} percent={(timePercent / 180000) * 100} strokeWidth={3} strokeColor="#D3D3D3" />
                     </div>
 
                     : currentCard ? <LeitnerCard
