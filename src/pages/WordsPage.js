@@ -15,9 +15,9 @@ function WordsPage() {
     const [words, setwords] = useState(null)
     const [currentCard, setcurrentCard] = useState(null)
 
-    const get = async () => {
-        await axios.get("https://mocki.io/v1/dcbf86d4-72e4-49ab-8f2f-2f9b2447f294")
-            .then(res => setwords(res.data.words[level]) || setcurrentCard(res.data.words[level][0]))
+    const get =  () => {
+      axios.get("https://mocki.io/v1/dcbf86d4-72e4-49ab-8f2f-2f9b2447f294")
+      .then(res=> (setwords(res.data.words[level]) || setcurrentCard(res.data.words[level][0])))
     }
 
     useEffect(() => {
@@ -62,15 +62,15 @@ function WordsPage() {
             <Container className={style.container}>
                 {
                     currentCard ?
-                    <> 
-                        <WordsCard word={currentCard.word} image={currentCard.image} index={i}
-                            wordsLength={wordsLength}
-                            prevBtnHandler={prevBtnHandler}
-                            nextBtnHandler={nextBtnHandler}
-                            audioHandler={play} />
-                       <button className={`btn ${style.add_to_leitner}`} onClick={() => dispatch({ type: "ADD_TO_LEITNER", payload: currentCard })}>Add to leitner</button>
-                    </>:
-                    <p>Loading...</p>
+                        <>
+                            <WordsCard word={currentCard.word} image={currentCard.image} index={i}
+                                wordsLength={wordsLength}
+                                prevBtnHandler={prevBtnHandler}
+                                nextBtnHandler={nextBtnHandler}
+                                audioHandler={play} />
+                            <button className={`btn ${style.add_to_leitner}`} onClick={() => dispatch({ type: "ADD_TO_LEITNER", payload: currentCard })}>Add to leitner</button>
+                        </> :
+                        <p>Loading...</p>
                 }
             </Container>
         </>
